@@ -93,7 +93,7 @@ while True:
 	elif(user_en == "8"):
 		os.system("python3 ./phonecheck.py")
 		input()
-		
+		python3 install.py hello
 		
 		
 		
